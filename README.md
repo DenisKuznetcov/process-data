@@ -1,4 +1,4 @@
-# Сlients info synchronisation Google Apps Script
+# Process data Google Apps Script
 Цель скрипта: автоматизация сборки и нормализации данных с листа "raw data" с сырыми данными от заказчика.
 
 ## Описание
@@ -8,4 +8,4 @@
 После этого данные с листа "Start" разделяются на 3 таблицы: Site list, Deceased и Contacts.
 
 ## Ссылка на таблицу
-[Google Sheets](https://docs.google.com/spreadsheets/d/1X1XT7QJ1raCqCm1tn5wo2N73F7KD0nC_0DX0eoBrwTA/edit?gid=67712414#gid=67712414)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1RgwYBqJmjjviKMM-Md-bSCfkLlnBYy0Hyg0B77nvWdU/edit?gid=67712414#gid=67712414)
